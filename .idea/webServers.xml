@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2944b8dd-7381-40a8-8667-37dc92fe8c8c" name="Cryptomans" url="https://dev.cgonline.fr">
+        <fileTransfer host="ftp.cgonline.fr" port="21" rootFolder="/dev">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
